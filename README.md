@@ -1,1 +1,1 @@
-# python-patterns(basic to advanced)
+# python-patterns
